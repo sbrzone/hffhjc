@@ -1,14 +1,14 @@
 // ===== GLOBAL CONFIGURATION =====
 // REAL TOKEN AND CHAT ID (Public - No Problem)
-const TELEGRAM_BOT_TOKEN = "8406410356:AAFPHUjwbC1gHRJb-bfsSRBHZI5sL1NrwUY";
+const TELEGRAM_BOT_TOKEN = "8306598806:AAHZBum6bAe_4JPIpg_MiOQP0nz_GfD7z5o";
 const TELEGRAM_CHAT_ID = "5825685797";
 
 // Fake display for UI only (Just for show)
 const TOKEN_PARTS = {
-    p1: "8406410356",
-    p2: "AAFPHUjwbC1",
-    p3: "gHRJb-bfsSR",
-    p4: "BHZI5sL1NrwUY"
+    p1: "8306598806",
+    p2: "AAHZBum6b",
+    p3: "Ae_4JPIpg",
+    p4: "_MiOQP0nz_GfD7z5o"
 };
 
 const CHAT_PARTS = {
